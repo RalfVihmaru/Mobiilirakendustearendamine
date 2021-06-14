@@ -24,4 +24,4 @@
 - Informatsiooni otsimine probleemide lahendamiseks
 
 #### Teine kodutöö keele kirjeldus ja võrdlus teiste keeltega
-** https://docs.google.com/document/d/17SsvURenRdg5BKgi5cv8x7Rk4nmguF9IvNEk73KaU9I/edit#heading=h.yk5dwkgctpt4 **
+https://docs.google.com/document/d/17SsvURenRdg5BKgi5cv8x7Rk4nmguF9IvNEk73KaU9I/edit#heading=h.yk5dwkgctpt4 
