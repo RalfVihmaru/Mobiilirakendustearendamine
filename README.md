@@ -9,6 +9,8 @@
 2. Unity sees saab seda rakendust kasutada või siis võtta unity seest valik build või build and run
 3. Buildi kasutades saab apk faili mida on võimalik kasutada eelmise viisi punktide näitel
 4. Build and run paneb rakenduse otse telefoni käima
+### Serveri lahendus ja augmenteeritud reaalsus
+Need on teistest osadest eraldi ja need tuleb eraldi unity-s tööle panna ja buildida, sest nende apk siin ei ole
 
 ## Mis osutus kergeks
 - Mitmeleheline lahendus
